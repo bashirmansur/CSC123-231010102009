@@ -1,0 +1,42 @@
+Q3
+i.The kernel is a core component of a computer's operating system (OS) that acts as the main interface between the hardware and the software. It's responsible for many tasks,
+
+FUNCTIONS
+
+Resource management: The kernel manages the system's resources, such as memory, processors, and devices. 
+
+Communication: The kernel manages communication between hardware and software components. 
+
+Process management: The kernel manages processes, including suspending or terminating them when needed. 
+
+Conflict resolution: The kernel prevents and resolves conflicts between processes. 
+
+Security: The kernel provides security services. 
+
+Multitasking: The kernel supports multitasking. 
+
+Startup: The kernel handles the startup of the system, including memory, peripherals, and input/output (I/O) requests. 
+
+Hardware abstraction: The kernel provides hardware abstraction to applications, allowing them to read and write files and communicate on the network without needing to understand the hardware details
+
+
+ii.An open-source kernel is the core part of an operating system that is made publicly available under an open-source license. This allows anyone to view, modify, and distribute the source code. Open-source kernels play a key role in enabling flexibility, transparency, and collaboration in software development.
+
+Features of Open-Source Kernels:
+
+Transparency: The source code is open to the public, so anyone can inspect it for security vulnerabilities, bugs, or inefficiencies.
+
+Customizability: Developers can modify the kernel to suit specific hardware, software, or performance needs, leading to tailored operating system environments.
+
+Community-driven Development: Open-source kernels are developed by a global community of contributors, fostering innovation and rapid problem-solving.
+
+Cost-effective: Being free to use and distribute, open-source kernels reduce costs for users, especially in enterprise environments.
+
+Security and Stability: Regular updates and contributions from the community help address security issues and improve the stability of the kernel.
+
+Licensing Freedom: Open-source kernels are typically licensed under licenses like GPL, allowing for both personal and commercial use under specified terms.
+
+
+iii.Customizability: Open-source kernels allow users and developers to modify the code to meet specific needs, enabling tailored solutions for different hardware and software environments.
+
+Security and Reliability: With many eyes reviewing and contributing to the code, open-source kernels benefit from rapid identification and resolution of security vulnerabilities, leading to a more secure and stable system.
